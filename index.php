@@ -13,7 +13,7 @@
     <title>Simple House - Contact Page</title>
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet" />
     <link href="all.min.css" rel="stylesheet" />
-	<link href="templatemo-style.css" rel="stylesheet" />
+	<link href="frontend-style.css" rel="stylesheet" />
 </head>
 <!--
 
