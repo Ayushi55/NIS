@@ -59,17 +59,17 @@ https://templatemo.com/tm-539-simple-house
 					
                 <form name="f1" action = "authentication.php" onsubmit = "return validation()" method = "POST">  
            
-        <div class="form-group">
-					          <input type="text" name="user" id="user" class="form-control" placeholder="user" required="" />
-					        </div>
+        <div class="form-group tm-contact-form">
+					          <input type="text" name="user" id="user" class="form-control" placeholder="User" required="" />
+					      
 					        
-					        <div class="form-group">
+					      
 					          <input type="password" name="pass" id="pass" class="form-control" placeholder="Password" required="" />
-					        </div>
-		
-					        <div class="form-group tm-d-flex ">
+					     
+		  </div>
+					        <div class="form-group tm-d-flex tm-contact-form ">
                             <p>     
-                <input type =  "submit"   class="tm-btn tm-btn-success button" id = "btn" value = "Login" />  
+                <input type =  "submit"   class="tm-btn tm-btn-success " style="margin-left:100px;" id = "btn" value = "Login" />  
             </p>  
 					         
 					        </div>
