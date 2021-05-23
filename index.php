@@ -1,8 +1,3 @@
-
-
-
-
-
 <!DOCTYPE html>
 <html>
 
@@ -40,8 +35,8 @@ https://templatemo.com/tm-539-simple-house
 						</div>
 						<nav class="col-md-6 col-12 tm-nav">
 							<ul class="tm-nav-ul">
-								<li class="tm-nav-li"><a href="index.html" class="tm-nav-link">Home</a></li>
-								<li class="tm-nav-li"><a href="login.html" class="tm-nav-link active">Login</a></li>
+								<li class="tm-nav-li"><a href="http://localhost/home.php" class="tm-nav-link">Home</a></li>
+								<li class="tm-nav-li"><a href="http://localhost/index.php" class="tm-nav-link active">Login</a></li>
 							</ul>
 						</nav>	
 					</div>
