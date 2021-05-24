@@ -26,6 +26,12 @@ html {
   box-sizing: inherit;
 }
 
+.search
+{
+ align-items: center;
+ margin-left:150px;
+
+}
 .button
 {
   align-items: center;
